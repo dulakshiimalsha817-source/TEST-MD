@@ -1,5 +1,5 @@
 {
-  "name": "sannu md" ,
+  "name": "sannu-md" ,
   "version": "1.0.0",
   "description": " WhatsApp Bot with Multi-Number Support",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "baileys": "npm:baileys-mod",
+       "baileys": "npm:@fuxxy-star/baileys@^5.5.0",
     "@xaviabot/fb-downloader": "1.0.14",
     "darksadas-yt-pornhub-scrape": "latest",
     "@dark-yasiya/scrap": "1.0.1",
@@ -39,6 +39,6 @@
     "baileys",
     "shala-md"
   ],
-  "author": "SANNU",
+  "author": "sannu",
   "license": "MIT"
 }
